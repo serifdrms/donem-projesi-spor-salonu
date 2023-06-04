@@ -1,0 +1,11 @@
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.AssemblyReference.cache
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Form1.resources
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\obj\Debug\SporSalonu.Properties.Resources.resources
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.GenerateResource.cache
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\obj\Debug\SporSalonu.csproj.CoreCompileInputs.cache
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\bin\Debug\SporSalonu.exe.config
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\bin\Debug\SporSalonu.exe
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\bin\Debug\SporSalonu.pdb
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\obj\Debug\SporSalonu.exe
+C:\Users\ByGush\source\repos\SporSalonu\SporSalonu\obj\Debug\SporSalonu.pdb
